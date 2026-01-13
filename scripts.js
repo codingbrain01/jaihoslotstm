@@ -1,3 +1,6 @@
+// HELLO TO YOU! GOOD LUCK ON RE-WRITING THE CODE!
+
+
 (function () {
     const t = document.createElement("link").relList;
     if (t && t.supports && t.supports("modulepreload"))
