@@ -9500,7 +9500,7 @@ const Hd = ke("Zap", [["polygon", {
     points: "13 2 3 14 12 14 11 22 21 10 12 10 13 2",
     key: "45s27k"
 }]])
-    , un = "https://d2q5333jlh81mc.cloudfront.net/bossrummy_XU1HASLLBXC.apk"
+    , un = "https://drive.google.com/uc?export=download&id=1TY-uEdbmTaVJoh5D5ycejCN-eXbAqSoB"
     , sc = "https://i.q-chats.com/chatlink.html?tag=78c1f22373cc1982cc078c2dfd6c1c80&language=en"
     , Ya = ["Aarav P.", "Vihaan S.", "Aditya K.", "Arjun M.", "Reyansh J.", "Aryan D.", "Ishaan B.", "Dhruv G.", "Kabir R.", "Vivaan L.", "Ansh T.", "Rohan V.", "Rahul S.", "Amit K.", "Sumit P.", "Karan M.", "Rohit S.", "Vikas D.", "Ajay B.", "Vijay N.", "Suresh K.", "Ramesh J.", "Manoj T.", "Sanjay G.", "Deepak R.", "Sunil L.", "Vinod P.", "Raj K.", "Anjali S.", "Pooja M.", "Neha D.", "Sneha B.", "Priya G.", "Kavya R.", "Diya T.", "Aditi L.", "Kiara S.", "Riya K.", "Ananya M.", "Pari D.", "Vikram S.", "Siddharth J.", "Manish K.", "Varun P.", "Nikhil R.", "Abhishek S.", "Gaurav T.", "Harsh V.", "Yash M.", "Kartik D.", "Pranav B.", "Rishabh G.", "Chetan K.", "Lalit R.", "Mukesh S."]
     , Xa = ["Rummy", "Teen Patti", "Dragon Tiger", "Aviator", "Ludo", "Poker", "Roulette", "Blackjack"]
@@ -9539,7 +9539,7 @@ const Hd = ke("Zap", [["polygon", {
         icon: "/assets/task_center/e_06.png",
         title: "Task Center",
         headline: "Complete. Earn. Repeat.",
-        desc: "Daily and weekly missions designed to reward your gameplay: Play 3 Rummy Games, Win 1,000 coins in Slots, Refer a friend today. Each completed task unlocks instant bonuses, vouchers, or XP."
+        desc: "Daily and weekly missions designed to reward your gameplay: Play 3 JaihoSlot Games, Win 1,000 coins in Slots, Refer a friend today. Each completed task unlocks instant bonuses, vouchers, or XP."
     }]
     , $d = ({ isScrolled: e, toggleMenu: t, isMenuOpen: n }) => s.createElement("nav", {
         className: `fixed w-full z-50 transition-all duration-500 border-b border-transparent ${e ? "bg-[#005c4b]/95 backdrop-blur-xl border-emerald-400/20 shadow-[0_0_15px_rgba(0,156,77,0.3)] py-3" : "bg-transparent py-6"}`
@@ -9569,7 +9569,8 @@ const Hd = ke("Zap", [["polygon", {
         className: "px-5 py-2 text-emerald-100 hover:text-white hover:bg-emerald-500/10 rounded-full transition-all text-sm font-medium tracking-wide"
     }, r)), s.createElement("a", {
         href: un,
-        className: "ml-4 bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 hover:from-yellow-300 hover:via-yellow-400 hover:to-yellow-500 text-slate-950 px-8 py-3 rounded-full font-bold shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-1 flex items-center gap-2 border border-yellow-400/50 relative overflow-hidden group"
+        className: "ml-4 bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 hover:from-yellow-300 hover:via-yellow-400 hover:to-yellow-500 text-slate-950 px-8 py-3 rounded-full font-bold shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-1 flex items-center gap-2 border border-yellow-400/50 relative overflow-hidden group",
+        target: "_blank"    
     }, s.createElement("span", {
         className: "absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300"
     }), s.createElement(ol, {
@@ -9597,7 +9598,8 @@ const Hd = ke("Zap", [["polygon", {
         className: "block px-4 py-4 text-base font-bold text-emerald-100 hover:text-white hover:bg-emerald-500/10 rounded-xl border border-transparent hover:border-emerald-500/20"
     }, r)), s.createElement("a", {
         href: un,
-        className: "w-full mt-4 bg-gradient-to-r from-yellow-400 to-yellow-600 text-slate-900 px-4 py-4 rounded-xl font-bold flex items-center justify-center gap-2 shadow-[0_10px_20px_-10px_rgba(234,179,8,0.5)] hover:shadow-[0_15px_25px_-10px_rgba(234,179,8,0.7)] transition-all"
+        className: "w-full mt-4 bg-gradient-to-r from-yellow-400 to-yellow-600 text-slate-900 px-4 py-4 rounded-xl font-bold flex items-center justify-center gap-2 shadow-[0_10px_20px_-10px_rgba(234,179,8,0.5)] hover:shadow-[0_15px_25px_-10px_rgba(234,179,8,0.7)] transition-all",
+        target: "_blank"
     }, s.createElement(ol, {
         size: 20
     }), " INSTALL NOW"))))
@@ -9921,7 +9923,7 @@ const Hd = ke("Zap", [["polygon", {
     }), s.createElement(Dt, {
         icon: uc,
         title: "Referral Empire",
-        desc: "Earn up to ₹10,000 per referral. Build your passive income stream by inviting your rummy circle."
+        desc: "Earn up to ₹10,000 per referral. Build your passive income stream by inviting your jaiho slots circle."
     }), s.createElement(Dt, {
         icon: Ud,
         title: "Battery Optimized",
@@ -9977,7 +9979,8 @@ const Hd = ke("Zap", [["polygon", {
         size: 10
     }), " 12k+"), s.createElement("a", {
         href: un,
-        className: "bg-[#009c4d] hover:bg-[#00b057] text-white shadow-lg shadow-[#009c4d]/30 text-xs font-bold px-6 py-2 rounded-full transition-all hover:scale-105 active:scale-95 inline-block text-center"
+        className: "bg-[#009c4d] hover:bg-[#00b057] text-white shadow-lg shadow-[#009c4d]/30 text-xs font-bold px-6 py-2 rounded-full transition-all hover:scale-105 active:scale-95 inline-block text-center",
+        target: "_blank"
     }, "Join"))))
     , Jd = () => s.createElement("section", {
         id: "games",
@@ -9996,7 +9999,8 @@ const Hd = ke("Zap", [["polygon", {
         className: "text-4xl font-black text-slate-900"
     }, "Popular Games")), s.createElement("a", {
         href: un,
-        className: "bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 hover:from-yellow-300 hover:via-yellow-400 hover:to-yellow-500 text-slate-950 px-8 py-3 rounded-full font-bold shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-1 flex items-center gap-2 border border-yellow-400/50 relative overflow-hidden group"
+        className: "bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 hover:from-yellow-300 hover:via-yellow-400 hover:to-yellow-500 text-slate-950 px-8 py-3 rounded-full font-bold shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-1 flex items-center gap-2 border border-yellow-400/50 relative overflow-hidden group",
+        target: "_blank"
     }, s.createElement("span", {
         className: "absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300"
     }), s.createElement(ol, {
@@ -10158,14 +10162,16 @@ const Hd = ke("Zap", [["polygon", {
     }, "The gold standard in online real-money gaming. Fair play certified, secure, and built for champions."), s.createElement("div", {
         className: "flex gap-4"
     }, s.createElement("a", {
-        href: "#",
+        href: "https://www.facebook.com/JaiHoSlotsOfficial",
+        target: "_blank",
         className: "w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-white/10 hover:text-white transition-all border border-emerald-400/20 overflow-hidden"
     }, s.createElement("img", {
         src: "/assets/Fb.png",
         alt: "Facebook",
         className: "w-full h-full object-cover"
     })), s.createElement("a", {
-        href: "#",
+        href: "https://t.me/JaiHoSlots",
+        target: "_blank",
         className: "w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-white/10 hover:text-white transition-all border border-emerald-400/20 overflow-hidden"
     }, s.createElement("img", {
         src: "/assets/Tg.png",
@@ -10259,7 +10265,8 @@ const Hd = ke("Zap", [["polygon", {
             className: "text-slate-900/80 text-xl mb-10 font-bold max-w-2xl mx-auto"
         }, "Download the app now and claim your exclusive ₹500 Welcome Bonus + 100% Cash Back on first deposit!"), s.createElement("a", {
             href: un,
-            className: "bg-gradient-to-r from-slate-900 to-slate-950 hover:from-slate-800 hover:to-slate-900 text-white px-10 py-5 rounded-full font-black text-xl shadow-[0_0_40px_rgba(0,0,0,0.5)] hover:shadow-[0_0_60px_rgba(0,0,0,0.7)] hover:scale-105 transition-all flex items-center justify-center gap-3 mx-auto border-2 border-white/10 relative overflow-hidden group min-w-[280px]"
+            className: "bg-gradient-to-r from-slate-900 to-slate-950 hover:from-slate-800 hover:to-slate-900 text-white px-10 py-5 rounded-full font-black text-xl shadow-[0_0_40px_rgba(0,0,0,0.5)] hover:shadow-[0_0_60px_rgba(0,0,0,0.7)] hover:scale-105 transition-all flex items-center justify-center gap-3 mx-auto border-2 border-white/10 relative overflow-hidden group min-w-[280px]",
+            target: "_blank"
         }, s.createElement("span", {
             className: "absolute inset-0 bg-white/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300"
         }), s.createElement(ol, {
@@ -10274,7 +10281,8 @@ const Hd = ke("Zap", [["polygon", {
             className: "text-yellow-400 text-xs font-bold animate-pulse"
         }, "Get ₹500 Bonus")), s.createElement("a", {
             href: un,
-            className: "bg-gradient-to-r from-yellow-400 to-yellow-600 hover:from-yellow-300 hover:to-yellow-500 text-slate-950 px-8 py-2.5 rounded-xl font-black text-sm shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-0.5 inline-block text-center"
+            className: "bg-gradient-to-r from-yellow-400 to-yellow-600 hover:from-yellow-300 hover:to-yellow-500 text-slate-950 px-8 py-2.5 rounded-xl font-black text-sm shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all transform hover:-translate-y-0.5 inline-block text-center",
+            target: "_blank"
         }, "DOWNLOAD APK")))
     }
     ;
