@@ -6215,7 +6215,7 @@ function fd(e, t, n) {
                     i = l.nodeType === 9 ? l : l.ownerDocument,
                         e === "http://www.w3.org/1999/xhtml" && (e = vu(n)),
                         e === "http://www.w3.org/1999/xhtml" ? n === "script" ? (e = i.createElement("div"),
-                            e.innerHTML = "<script><\/script>",
+                            e.innerHTML = "<script><\script>",
                             e = e.removeChild(e.firstChild)) : typeof r.is == "string" ? e = i.createElement(n, {
                                 is: r.is
                             }) : (e = i.createElement(n),
@@ -9509,37 +9509,37 @@ const Hd = ke("Zap", [["polygon", {
     , Xa = ["Rummy", "Teen Patti", "Dragon Tiger", "Aviator", "Ludo", "Poker", "Roulette", "Blackjack"]
     , En = [{
         id: 0,
-        icon: "/assets/task_center/e_01.png",
+        icon: "assets/task_center/e_01.png",
         title: "Promo Code",
         headline: "Unlock Rewards with Promo Codes",
         desc: "Get exclusive bonuses by entering special promo codes! Whether it's free cash, spins, or entries into tournaments, promo codes are your gateway to surprise rewards. Available for new users, festive events, and loyalty players."
     }, {
         id: 1,
-        icon: "/assets/task_center/e_02.png",
+        icon: "assets/task_center/e_02.png",
         title: "Voucher",
         headline: "Boost Your Play with Vouchers",
         desc: "Claim powerful vouchers to level up your game: Deposit Vouchers - Get bonus cash or extra chips on every deposit. Game Vouchers - Enjoy free spins or entries in specific games like slots or fishing. Easily redeem vouchers inside the app for instant rewards."
     }, {
         id: 2,
-        icon: "/assets/task_center/e_03.png",
+        icon: "assets/task_center/e_03.png",
         title: "Tournament",
         headline: "Compete. Climb. Conquer.",
         desc: "Join thrilling real-time tournaments across Rummy, Slots, Aviator, and more. Timed rounds, Leaderboards with live updates, Win cash, bonuses, or exclusive badges. Enter for glory — and big prizes."
     }, {
         id: 3,
-        icon: "/assets/task_center/e_04.png",
+        icon: "assets/task_center/e_04.png",
         title: "Jackpot",
         headline: "One Spin Can Change Everything",
         desc: "Every spin or round you play brings you closer to hitting the Yono jackpot. Progressive pool grows daily. Winners announced live. Play eligible games to qualify. You never know when luck strikes!"
     }, {
         id: 4,
-        icon: "/assets/task_center/e_05.png",
+        icon: "assets/task_center/e_05.png",
         title: "Lucky Wheel",
         headline: "Spin the Wheel Every Day!",
         desc: "Log in daily and take your free shot at the Lucky Wheel. Prizes include: Bonus coins, Free tournament entries, Game vouchers, Real cash boosts. More spins = more chances to win!"
     }, {
         id: 5,
-        icon: "/assets/task_center/e_06.png",
+        icon: "assets/task_center/e_06.png",
         title: "Task Center",
         headline: "Complete. Earn. Repeat.",
         desc: "Daily and weekly missions designed to reward your gameplay: Play 3 JaihoSlot Games, Win 1,000 coins in Slots, Refer a friend today. Each completed task unlocks instant bonuses, vouchers, or XP."
@@ -9551,7 +9551,7 @@ const Hd = ke("Zap", [["polygon", {
     }, s.createElement("div", {
         className: "flex items-center gap-3 group cursor-pointer"
     }, s.createElement("img", {
-        src: "/assets/js_logo.png",
+        src: "assets/js_logo.png",
         alt: "Jaiho Slots Logo",
         className: "h-12 w-auto drop-shadow-[0_0_10px_rgba(234,179,8,0.3)] group-hover:scale-105 transition-transform duration-300",
         onError: r => {
@@ -9614,7 +9614,7 @@ const Hd = ke("Zap", [["polygon", {
         rel: "noopener noreferrer",
         className: "group w-14 h-14 rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(37,211,102,0.4)] hover:shadow-[0_4px_25px_rgba(37,211,102,0.6)] hover:scale-110 transition-all cursor-pointer border-2 border-emerald-400/20 bg-[#005c4b] overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/Wa.png",
+        src: "assets/Wa.png",
         alt: "WhatsApp",
         className: "w-full h-full object-cover"
     }), s.createElement("span", {
@@ -9625,7 +9625,7 @@ const Hd = ke("Zap", [["polygon", {
         rel: "noopener noreferrer",
         className: "group w-14 h-14 rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(0,136,204,0.4)] hover:shadow-[0_4px_25px_rgba(0,136,204,0.6)] hover:scale-110 transition-all cursor-pointer border-2 border-emerald-400/20 bg-[#005c4b] overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/Tg.png",
+        src: "assets/Tg.png",
         alt: "Telegram",
         className: "w-full h-full object-cover"
     }), s.createElement("span", {
@@ -9636,7 +9636,7 @@ const Hd = ke("Zap", [["polygon", {
         rel: "noopener noreferrer",
         className: "group w-14 h-14 rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(24,119,242,0.4)] hover:shadow-[0_4px_25px_rgba(24,119,242,0.6)] hover:scale-110 transition-all cursor-pointer border-2 border-emerald-400/20 bg-[#005c4b] overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/Fb.png",
+        src: "assets/Fb.png",
         alt: "Facebook",
         className: "w-full h-full object-cover"
     }), s.createElement("span", {
@@ -9647,7 +9647,7 @@ const Hd = ke("Zap", [["polygon", {
         rel: "noopener noreferrer",
         className: "group w-14 h-14 rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(234,179,8,0.4)] hover:shadow-[0_4px_25px_rgba(234,179,8,0.6)] hover:scale-110 transition-all cursor-pointer border-2 border-emerald-400/20 bg-[#005c4b] overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/CS.png",
+        src: "assets/CS.png",
         alt: "Support",
         className: "w-full h-full object-cover scale-75"
     }), s.createElement("span", {
@@ -9657,26 +9657,26 @@ const Hd = ke("Zap", [["polygon", {
         const [e, t] = fe.useState(0)
             , n = [{
                 id: 3,
-                bg: "/assets/hero_3_bg.jpg",
-                logo: "/assets/hero_3_title_1.png",
-                text: "/assets/hero_3_title_2.png",
-                character: "/assets/hero_3.png",
+                bg: "assets/hero_3_bg.jpg",
+                logo: "assets/hero_3_title_1.png",
+                text: "assets/hero_3_title_2.png",
+                character: "assets/hero_3.png",
                 sizeClass: "w-64 md:w-80 lg:w-full max-w-2xl",
                 color: "from-red-600 to-rose-900"
             }, {
                 id: 1,
-                bg: "/assets/hero_1_bg.jpg",
-                logo: "/assets/hero_1_title_1.png",
-                text: "/assets/hero_1_title_2.png",
-                character: "/assets/hero_1.png",
+                bg: "assets/hero_1_bg.jpg",
+                logo: "assets/hero_1_title_1.png",
+                text: "assets/hero_1_title_2.png",
+                character: "assets/hero_1.png",
                 sizeClass: "w-52 md:w-64 lg:w-4/5 max-w-xl",
                 color: "from-emerald-500 to-teal-900"
             }, {
                 id: 2,
-                bg: "/assets/hero_2_bg.jpg",
-                logo: "/assets/hero_2_title_1.png",
-                text: "/assets/hero_2_title_2.png",
-                character: "/assets/hero_2.png",
+                bg: "assets/hero_2_bg.jpg",
+                logo: "assets/hero_2_title_1.png",
+                text: "assets/hero_2_title_2.png",
+                character: "assets/hero_2.png",
                 sizeClass: "w-[19rem] md:w-[25rem] lg:w-[120%] max-w-3xl",
                 color: "from-blue-500 to-indigo-900"
             }];
@@ -9803,22 +9803,22 @@ const Hd = ke("Zap", [["polygon", {
         className: "flex items-center gap-8 md:gap-12 opacity-80 hover:opacity-100 transition-all duration-500"
     }, [{
         name: "UPI",
-        src: "/assets/B26B6BBB.png"
+        src: "assets/B26B6BBB.png"
     }, {
         name: "RuPay",
-        src: "/assets/6492062C.png"
+        src: "assets/6492062C.png"
     }, {
         name: "Visa",
-        src: "/assets/239513C.png"
+        src: "assets/239513C.png"
     }, {
         name: "Mastercard",
-        src: "/assets/B89814B2.png"
+        src: "assets/B89814B2.png"
     }, {
         name: "PayU",
-        src: "/assets/ED6B310C.png"
+        src: "assets/ED6B310C.png"
     }, {
         name: "IMPS",
-        src: "/assets/FD8E2BC9.png"
+        src: "assets/FD8E2BC9.png"
     }].map((e, t) => s.createElement("img", {
         key: t,
         src: e.src,
@@ -10018,45 +10018,45 @@ const Hd = ke("Zap", [["polygon", {
         volatility: "High",
         maxWin: "x5000",
         badge: "HOT",
-        image: "/assets/game-jungle.png"
+        image: "assets/game-jungle.png"
     }), s.createElement(Ot, {
         title: "Aviator",
         volatility: "High",
         maxWin: "Unlimited",
         badge: "TRENDING",
-        image: "/assets/game-aviator.png"
+        image: "assets/game-aviator.png"
     }), s.createElement(Ot, {
         title: "Chicken Road 2",
         volatility: "Medium",
         maxWin: "x2500",
-        image: "/assets/game-luffy2.png"
+        image: "assets/game-luffy2.png"
     }), s.createElement(Ot, {
         title: "Fortune Gems 500",
         volatility: "High",
         maxWin: "x10000",
         badge: "NEW",
-        image: "/assets/sjyx.png"
+        image: "assets/sjyx.png"
     }), s.createElement(Ot, {
         title: "Lucky 777",
         volatility: "Medium",
         maxWin: "x7777",
-        image: "/assets/Lucky777.png"
+        image: "assets/Lucky777.png"
     }), s.createElement(Ot, {
         title: "Dragon Vs Tiger",
         volatility: "High",
         maxWin: "x10000",
-        image: "/assets/dragon-tige1r.png"
+        image: "assets/dragon-tige1r.png"
     }))))
     , qd = () => s.createElement("div", {
         className: "w-full bg-[#005C4B] border-y-4 border-yellow-500/50 py-6 px-2 shadow-2xl relative z-20"
     }, s.createElement("div", {
         className: "max-w-7xl mx-auto flex justify-center"
     }, s.createElement("img", {
-        src: "/assets/Banner_desktop.png",
+        src: "assets/Banner_desktop.png",
         alt: "Special Offer",
         className: "hidden md:block w-full h-auto object-cover rounded-lg shadow-lg border border-white/10"
     }), s.createElement("img", {
-        src: "/assets/Banner_mobile.png",
+        src: "assets/Banner_mobile.png",
         alt: "Special Offer",
         className: "block md:hidden w-full h-auto object-cover rounded-md shadow-lg border border-white/10"
     })))
@@ -10083,21 +10083,21 @@ const Hd = ke("Zap", [["polygon", {
         win: "1.2 Lakhs",
         quote: "Fastest withdrawal I've ever seen. Money in bank in 30 seconds!",
         color: "from-yellow-300",
-        img: "/assets/761A7EFB.png"
+        img: "assets/761A7EFB.png"
     }, {
         name: "Priya S.",
         loc: "Bangalore",
         win: "45,000",
         quote: "The interface is so premium. Feels like playing in a real casino.",
         color: "from-purple-300",
-        img: "/assets/9B0DD21A.png"
+        img: "assets/9B0DD21A.png"
     }, {
         name: "Amit V.",
         loc: "Delhi",
         win: "85,000",
         quote: "VIP support is actually VIP. They helped me instantly at 2 AM.",
         color: "from-green-300",
-        img: "/assets/936E3920.png"
+        img: "assets/936E3920.png"
     }].map((e, t) => s.createElement("div", {
         key: t,
         className: "relative group p-[1px] rounded-3xl bg-gradient-to-b from-emerald-100 to-transparent hover:from-emerald-200 transition-all duration-500 hover:-translate-y-2 shadow-xl hover:shadow-2xl"
@@ -10149,7 +10149,7 @@ const Hd = ke("Zap", [["polygon", {
     }, s.createElement("div", {
         className: "flex items-center gap-3 mb-6"
     }, s.createElement("img", {
-        src: "/assets/js_logo.png",
+        src: "assets/js_logo.png",
         alt: "Jaiho Slots Logo",
         className: "h-10 w-auto",
         onError: e => {
@@ -10169,7 +10169,7 @@ const Hd = ke("Zap", [["polygon", {
         target: "_blank",
         className: "w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-white/10 hover:text-white transition-all border border-emerald-400/20 overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/Fb.png",
+        src: "assets/Fb.png",
         alt: "Facebook",
         className: "w-full h-full object-cover"
     })), s.createElement("a", {
@@ -10177,7 +10177,7 @@ const Hd = ke("Zap", [["polygon", {
         target: "_blank",
         className: "w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-white/10 hover:text-white transition-all border border-emerald-400/20 overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/Tg.png",
+        src: "assets/Tg.png",
         alt: "Telegram",
         className: "w-full h-full object-cover"
     })), s.createElement("a", {
@@ -10186,7 +10186,7 @@ const Hd = ke("Zap", [["polygon", {
         rel: "noopener noreferrer",
         className: "w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center hover:bg-white/10 hover:text-white transition-all border border-emerald-400/20 overflow-hidden"
     }, s.createElement("img", {
-        src: "/assets/CS.png",
+        src: "assets/CS.png",
         alt: "Support",
         className: "w-full h-full object-cover scale-75"
     })))), s.createElement("div", null, s.createElement("h4", {
@@ -10209,7 +10209,7 @@ const Hd = ke("Zap", [["polygon", {
         className: "text-white font-bold mb-6 tracking-wide uppercase text-sm"
     }, "Secure Payment"), s.createElement("div", {
         className: "grid grid-cols-3 gap-2"
-    }, ["/assets/B26B6BBB.png", "/assets/239513C.png", "/assets/B89814B2.png", "/assets/ED6B310C.png", "/assets/62D3E387.png", "/assets/FD8E2BC9.png"].map((e, t) => s.createElement("div", {
+    }, ["assets/B26B6BBB.png", "assets/239513C.png", "assets/B89814B2.png", "assets/ED6B310C.png", "assets/62D3E387.png", "assets/FD8E2BC9.png"].map((e, t) => s.createElement("div", {
         key: t,
         className: "flex items-center justify-center overflow-hidden h-10"
     }, s.createElement("img", {
